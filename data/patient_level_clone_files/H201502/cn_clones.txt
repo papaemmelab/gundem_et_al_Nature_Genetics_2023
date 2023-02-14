@@ -1,0 +1,2 @@
+clone_id	clone	IID_H201502_T01_01_WG01	IID_H201502_T02_01_WG01	IID_H201502_T03_01_WG01	subs_clone	color
+1	trunk	1	1	1	trunk	#646464

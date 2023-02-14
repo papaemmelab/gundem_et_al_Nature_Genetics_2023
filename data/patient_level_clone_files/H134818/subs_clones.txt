@@ -1,0 +1,4 @@
+patient	cluster.no	I-H-134818-T8-3-D1-1	I-H-134818-T9-3-D1-1	no.muts.in.cluster	prop.muts.in.cluster	colour	descr	length	notes	order	label	descr2
+I-H-134818	5	0.985138831	0.971084751	1988	0.933333333	#646464	trunk	44.58699362	none	1	1	trunk
+I-H-134818	4	0.891002064	0	53	0.024882629	#7800F8	T8_90	7.280109889	none	2	2	SL1_90
+I-H-134818	1	0	0.414672859	50	0.023474178	#0070C0	T9_42	7.071067812	none	4	3	SL2_42

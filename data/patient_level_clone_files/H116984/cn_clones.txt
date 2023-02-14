@@ -1,0 +1,5 @@
+clone	subs_clone	color	I-H-116984-T1-1-D1-1	I-H-116984-T2-1-D1-1
+T2_100	none	black	0	1
+T2_17	T2_15	#FFFF00	0	0.173591391
+T2_54	T2_62	#7800F8	0	0.541401071
+trunk	trunk	#646464	1	1

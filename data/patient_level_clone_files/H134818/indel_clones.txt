@@ -1,0 +1,4 @@
+patient	cluster.no	I-H-134818-T8-3-D1-1	I-H-134818-T9-3-D1-1	no.muts.in.cluster	prop.muts.in.cluster	colour	descr	subs_clone	notes
+I-H-134818	3	0.326041514	0.098161125	4	0.014492754	#FEFE0A	T8_33	T8_24	none
+I-H-134818	4	0.719897883	0	6	0.022058824	#7800F8	T8_72	T8_90	none
+I-H-134818	5	0.90605095	0.916774373	266	1	#646464	trunk	trunk	none

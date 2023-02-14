@@ -1,0 +1,4 @@
+patient	cluster.no	I-H-132380-T4-1-D1-2	I-H-132380-T5-1-D1-2	no.muts.in.cluster	descr	colour	subs_clone	notes	order
+I-H-132380	4	1.034249743	0.871537659	76	trunk	#646464	trunk	none	1
+I-H-132380	3	0.826135732	0	23	T4_83	#7800F8	T4_78	none	2
+I-H-132380	1	0	0.667136131	165	T5_86	#0070C0	T5_100	none	4

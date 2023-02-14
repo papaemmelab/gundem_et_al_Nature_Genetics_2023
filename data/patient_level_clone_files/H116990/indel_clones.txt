@@ -1,0 +1,4 @@
+patient	cluster.no	I-H-116990-T1-1-D1-1	I-H-116990-T2-1-D1-1	no.muts.in.cluster	prop.muts.in.cluster	descr	colour	subs_clone	notes
+I-H-116990	1	0	1.155362613	16	0.047619048	T2_100	#7800F8	T2_100	none
+I-H-116990	2	0.970100938	0.016706179	250	0.744047619	T1_100	#FF9D00	T1_100	none
+I-H-116990	3	0.970464859	1.090886216	70	0.208333333	trunk	#646464	trunk	none
